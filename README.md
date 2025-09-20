@@ -4,7 +4,7 @@
   <img height="50%" width="auto" src="https://github-readme-stats.vercel.app/api?username=Archit743&show_icons=true&count_private=true&theme=tokyonight&hide_border=true&hide=issues,contribs&bg_color=00000000" />
 
   <!-- Top Languages -->
-  <img height="50%" width="auto" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Archit743&layout=compact&hide_border=true&theme=tokyonight&bg_color=00000000&langs_count=6&hide=jupyter%20notebook,tex,css,php" />
+  <img height="50%" width="auto" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Archit743&layout=compact&hide_border=true&theme=tokyonight&bg_color=00000000&langs_count=6&hide=jupyter%20notebook,tex,css,php&exclude_repo=flask-reAdmit-microservice" />
 
   <!-- Streak Stats -->
   <img src="https://github-readme-streak-stats.herokuapp.com?user=Archit743&theme=tokyonight&hide_border=true&background=FFFFFF00" />
