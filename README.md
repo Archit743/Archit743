@@ -1,6 +1,5 @@
-<img align='center' src="https://github.com/Archit743/Archit743/blob/main/terminal_gif.gif">
-
 <p align="center">
+  <img src='https://github.com/Archit743/Archit743/blob/main/terminal_gif.gif' style='width: 800px; margin-left: 200px;'>
   <!-- GitHub Stats -->
   <img height="50%" width="auto" src="https://github-readme-stats.vercel.app/api?username=Archit743&show_icons=true&count_private=true&theme=tokyonight&hide_border=true&hide=issues,contribs&bg_color=00000000" />
 
@@ -10,7 +9,6 @@
   <!-- Streak Stats -->
   <img src="https://github-readme-streak-stats.herokuapp.com?user=Archit743&theme=tokyonight&hide_border=true&background=FFFFFF00" />
 
-  <br><br>
   <h2 align="center" style="color: #c0caf5; font-size: 24px; font-weight: bold;">:hammer_and_wrench: Technologies and Tools I Use:</h2>
   <p align="center">
     <!-- Languages -->
@@ -74,17 +72,14 @@
     <a href="https://www.postgresql.org/" target="_blank">
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="postgresql" width="40" height="40"/>
     </a>
-
    <br><br>
-  <img align='left' src='https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3Y3ZoemdoampzYzI1ZGF4aDM5M2dsYm5meTVpOXRtd2F6Z2J6NDE3ayZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/maeiz9N6fKKnS/giphy.gif' width='200'>
   <!-- Support / Button -->
-  <div style="display: flex; justify-content: center;">
+  <div style="display: flex; justify-content: space-around; align-items: center; max-width: 500px; margin: 0 auto;">
+    <img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3Y3ZoemdoampzYzI1ZGF4aDM5M2dsYm5meTVpOXRtd2F6Z2J6NDE3ayZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/maeiz9N6fKKnS/giphy.gif" width="200">
     <a href="https://www.buymeacoffee.com/Archit743" target="_blank">
       <img src="https://cdn.buymeacoffee.com/buttons/v2/default-blue.png" alt="Buy Me A Coffee" style="height: 50px !important; width: 210px !important;" />
     </a>
   </div>
   <br><br>
-
-  
   </p>
 </p>
