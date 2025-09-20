@@ -1,4 +1,4 @@
-<img align='center' src="https://github.com/Archit743/Archit743/blob/main/terminal_with_gif_latest.gif">
+<img align='center' src="https://github.com/Archit743/Archit743/blob/main/terminal_gif.gif">
 
 <p align="center">
   <!-- GitHub Stats -->
