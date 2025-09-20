@@ -9,7 +9,7 @@
   <!-- Streak Stats -->
   <img src="https://github-readme-streak-stats.herokuapp.com?user=Archit743&theme=tokyonight&hide_border=true&background=FFFFFF00" />
 
-  <h2 align="center" style="color: #c0caf5; font-size: 24px; font-weight: bold;">:hammer_and_wrench: Technologies and Tools I Use:</h2>
+  <h2 align="center" style="color: #bb9af7 !important; font-size: 24px; font-weight: bold;">🛠️ Technologies and Tools</h2>
   <p align="center">
     <!-- Languages -->
     <a href="https://www.cprogramming.com/" target="_blank">
@@ -74,12 +74,10 @@
     </a>
    <br><br>
   <!-- Support / Button -->
-  <div style="display: flex; justify-content: space-around; align-items: center; max-width: 500px; margin: 0 auto;">
     <img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3Y3ZoemdoampzYzI1ZGF4aDM5M2dsYm5meTVpOXRtd2F6Z2J6NDE3ayZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/maeiz9N6fKKnS/giphy.gif" width="200">
     <a href="https://www.buymeacoffee.com/Archit743" target="_blank">
-      <img src="https://cdn.buymeacoffee.com/buttons/v2/default-blue.png" alt="Buy Me A Coffee" style="height: 50px !important; width: 210px !important;" />
+      <img src="https://cdn.buymeacoffee.com/buttons/v2/default-blue.png" alt="Buy Me A Coffee" style="height: 50px !important; width: 210px !important;"  />
     </a>
-  </div>
   <br><br>
   </p>
 </p>
