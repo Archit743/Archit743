@@ -1,3 +1,5 @@
+<img align='center' src="https://github.com/Archit743/Archit743/blob/main/terminal_with_gif_latest.gif">
+
 <p align="center">
   <!-- GitHub Stats -->
   <img height="50%" width="auto" src="https://github-readme-stats.vercel.app/api?username=Archit743&show_icons=true&count_private=true&theme=tokyonight&hide_border=true&hide=issues,contribs&bg_color=00000000" />
