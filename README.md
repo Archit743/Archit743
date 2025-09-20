@@ -1,5 +1,3 @@
-<img align='right' src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='200"'>
-
 <p align="center">
   <!-- GitHub Stats -->
   <img height="50%" width="auto" src="https://github-readme-stats.vercel.app/api?username=Archit743&show_icons=true&count_private=true&theme=tokyonight&hide_border=true&hide=issues,contribs&bg_color=00000000" />
@@ -83,6 +81,7 @@
       <img src="https://cdn.buymeacoffee.com/buttons/v2/default-blue.png" alt="Buy Me A Coffee" style="height: 50px !important; width: 210px !important;" />
     </a>
   </div>
+  <img align='right' src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='200"'>
 
   <br><br>
 
